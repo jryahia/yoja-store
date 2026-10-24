@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yoja-store-hq.vercel.app/sitemap.xml
